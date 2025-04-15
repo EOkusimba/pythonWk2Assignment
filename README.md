@@ -1,5 +1,5 @@
 # pythonWk2Assignment
-This repository provides answers to the PLP week 2 python assignment
+This repository provides answers to the PLP week 2 python assignment (February 2025 cohort)
 
 #Create an empty list called my_list.
 
